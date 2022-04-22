@@ -1,2 +1,3 @@
 # My_project
-My first interaction with this GitHub account
+# Digit Recognition :
+# I have worked on this particular project using Tensorflow and Keras.
